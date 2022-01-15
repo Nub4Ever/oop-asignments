@@ -1,2 +1,5 @@
 Starting audit...
+[ERROR] C:\Users\Raul_PC\Desktop\POO\oop-asignments\proiect1\.\src\main\Main.java:42:5: Method length is 255 lines (max allowed is 150). [MethodLength]
+[ERROR] C:\Users\Raul_PC\Desktop\POO\oop-asignments\proiect1\.\src\main\Strategy\BabyStrategy.java:8:31: '10d' is a magic number. [MagicNumber]
 Audit done.
+Checkstyle ends with 2 errors.

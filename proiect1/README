@@ -1,0 +1,28 @@
+Pentru inceput am creat package-ul "entities" in care am creat clasele Child, Gift si Santa.
+
+Pentru clasa Child, in afara de campurile pe care le-am folosit la metoda de tip setter pentru "niceScore"
+am adaugat de asemenea scorul citit in "scoreHistory", astfel in momentul in care un nou scor este setat,
+acesta va fi si memorat intr-o lista.
+
+Am adaugat 4 macro-uri in "Constants" pentru path-ul fisierelor input si pentru numere magice.
+
+Flow-ul s-a bazat in mare parte pe folosire a 2 pattern design-uri:
+    * Visitor : - folosit pentru a citi, respective a scrie in format JSON
+                - in ReaderVisitor citesc din fisierele input si atribui campurile pentru
+                  clasele Santa si Child
+                - in WriterVisitor am avut nevoie doar de folosirea clasei Santa deoarece in clasa
+                  respectiva am creat o lista "annualChildren" care retine toti copiii care primesc
+                  cadouri dintr-un an
+                - pentru WriterVisitor m-am folosit de formatul "Pretty Print" pentru a obtine acealsi
+                  design ca in fiserele de referinta
+
+    * Strategy : - l-am folosit pentru a rezola calcularea "averageScore"-ului in funtie de varsta
+                   fiecarui copil: Baby, Kid, Teen
+
+In main, initial rezolv runda 0, dupa care updatez varsta copiiilor. Copiii de peste 18 ani nu vor fi
+adaugati de la inceput, iar in momentul trecerii in urmatorul an, vor fi scosi din lista daca varsta lor
+depaseste 18 ani.
+Pentru update am avut probleme cu pastrarea ordinii pentru "scoreHistory" si "giftPreference" asa ca a trebuit
+sa fac un deep copy si sa atribui separat cele doua campuri copiei realizate.
+
+Am folosit aproape peste tot LinkedLists, deoarece fisierele JSON nu pastreaza ordinea de adaugare.

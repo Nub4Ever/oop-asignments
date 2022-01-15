@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ceb3a53-9255-47a5-a563-6e5cf6f10c4e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/oop-asignments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema/src/action/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema/src/action/command/CommandVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema/src/action/command/FavoriteCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema/src/action/command/RatingCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema/src/action/command/ViewCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema/src/action/command/Visitable1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema/src/action/command/Visitor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema/src/action/query/AverageQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema/src/action/query/AwardsQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema/src/action/query/DescriptionQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema/src/action/query/FavoriteQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema/src/action/query/LongestQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema/src/action/query/MostViewedQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema/src/action/query/Query.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema/src/action/query/QueryVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema/src/action/query/RatingQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema/src/action/query/Sorts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema/src/action/query/Visitable2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema/src/action/query/Visitor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema/src/entities/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema/src/entities/ActorDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema/src/entities/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema/src/entities/MovieDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema/src/entities/Serial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema/src/entities/SerialDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema/src/entities/Show.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema/src/entities/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema/src/entities/UserDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tema/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/result/out_favorite_fail_duplicate.json" beforeDir="false" afterPath="$PROJECT_DIR$/tema/result/out_favorite_fail_duplicate.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/result/out_favorite_fail_invalid.json" beforeDir="false" afterPath="$PROJECT_DIR$/tema/result/out_favorite_fail_invalid.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/result/out_large_test_no_1.json" beforeDir="false" afterPath="$PROJECT_DIR$/tema/result/out_large_test_no_1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/result/out_large_test_no_2.json" beforeDir="false" afterPath="$PROJECT_DIR$/tema/result/out_large_test_no_2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/result/out_large_test_no_3.json" beforeDir="false" afterPath="$PROJECT_DIR$/tema/result/out_large_test_no_3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/result/out_large_test_no_4.json" beforeDir="false" afterPath="$PROJECT_DIR$/tema/result/out_large_test_no_4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/result/out_large_test_no_5.json" beforeDir="false" afterPath="$PROJECT_DIR$/tema/result/out_large_test_no_5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/result/out_large_test_no_6.json" beforeDir="false" afterPath="$PROJECT_DIR$/tema/result/out_large_test_no_6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/result/out_large_test_no_7.json" beforeDir="false" afterPath="$PROJECT_DIR$/tema/result/out_large_test_no_7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/result/out_large_test_no_8.json" beforeDir="false" afterPath="$PROJECT_DIR$/tema/result/out_large_test_no_8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/result/out_large_test_no_9.json" beforeDir="false" afterPath="$PROJECT_DIR$/tema/result/out_large_test_no_9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/result/out_query_no_values.json" beforeDir="false" afterPath="$PROJECT_DIR$/tema/result/out_query_no_values.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/result/out_recommendation_invalid_user.json" beforeDir="false" afterPath="$PROJECT_DIR$/tema/result/out_recommendation_invalid_user.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/result/out_recommendation_no_values.json" beforeDir="false" afterPath="$PROJECT_DIR$/tema/result/out_recommendation_no_values.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/result/out_single_command_favorite.json" beforeDir="false" afterPath="$PROJECT_DIR$/tema/result/out_single_command_favorite.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/result/out_single_command_rating_movie.json" beforeDir="false" afterPath="$PROJECT_DIR$/tema/result/out_single_command_rating_movie.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/result/out_single_command_rating_show.json" beforeDir="false" afterPath="$PROJECT_DIR$/tema/result/out_single_command_rating_show.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/result/out_single_command_view.json" beforeDir="false" afterPath="$PROJECT_DIR$/tema/result/out_single_command_view.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/result/out_single_query_average_actors.json" beforeDir="false" afterPath="$PROJECT_DIR$/tema/result/out_single_query_average_actors.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/result/out_single_query_awards_actors.json" beforeDir="false" afterPath="$PROJECT_DIR$/tema/result/out_single_query_awards_actors.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/result/out_single_query_favorite_movie.json" beforeDir="false" afterPath="$PROJECT_DIR$/tema/result/out_single_query_favorite_movie.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/result/out_single_query_favorite_show.json" beforeDir="false" afterPath="$PROJECT_DIR$/tema/result/out_single_query_favorite_show.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/result/out_single_query_filter_description_actors.json" beforeDir="false" afterPath="$PROJECT_DIR$/tema/result/out_single_query_filter_description_actors.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/result/out_single_query_longest_movie.json" beforeDir="false" afterPath="$PROJECT_DIR$/tema/result/out_single_query_longest_movie.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/result/out_single_query_longest_show.json" beforeDir="false" afterPath="$PROJECT_DIR$/tema/result/out_single_query_longest_show.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/result/out_single_query_most_viewed_movie.json" beforeDir="false" afterPath="$PROJECT_DIR$/tema/result/out_single_query_most_viewed_movie.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/result/out_single_query_most_viewed_show.json" beforeDir="false" afterPath="$PROJECT_DIR$/tema/result/out_single_query_most_viewed_show.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/result/out_single_query_rating_movie.json" beforeDir="false" afterPath="$PROJECT_DIR$/tema/result/out_single_query_rating_movie.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/result/out_single_query_rating_show.json" beforeDir="false" afterPath="$PROJECT_DIR$/tema/result/out_single_query_rating_show.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/result/out_single_query_users.json" beforeDir="false" afterPath="$PROJECT_DIR$/tema/result/out_single_query_users.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/result/out_single_recommendation_best_unseen.json" beforeDir="false" afterPath="$PROJECT_DIR$/tema/result/out_single_recommendation_best_unseen.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/result/out_single_recommendation_favorite.json" beforeDir="false" afterPath="$PROJECT_DIR$/tema/result/out_single_recommendation_favorite.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/result/out_single_recommendation_popular.json" beforeDir="false" afterPath="$PROJECT_DIR$/tema/result/out_single_recommendation_popular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/result/out_single_recommendation_search.json" beforeDir="false" afterPath="$PROJECT_DIR$/tema/result/out_single_recommendation_search.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/result/out_single_recommendation_standard.json" beforeDir="false" afterPath="$PROJECT_DIR$/tema/result/out_single_recommendation_standard.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/src/fileio/MovieInputData.java" beforeDir="false" afterPath="$PROJECT_DIR$/tema/src/fileio/MovieInputData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/tema/src/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema/src/utils/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/tema/src/utils/Utils.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="21akpbV8YvXca2YdSc32v2k8JNi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="teme" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Test" />
+      <module name="teme" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ceb3a53-9255-47a5-a563-6e5cf6f10c4e" name="Changes" comment="" />
+      <created>1638186769985</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638186769985</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6592cf7-8b38-437d-9566-c17c77fc77e1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/checkstyle_8_36_2_all.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/libs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkstyle.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/out_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/out_10.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/out_11.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/out_12.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/out_13.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/out_14.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/out_15.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/out_16.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/out_17.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/out_18.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/out_19.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/out_2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/out_20.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/out_21.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/out_22.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/out_23.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/out_24.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/out_25.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/out_26.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/out_27.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/out_28.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/out_29.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/out_3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/out_30.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/out_4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/out_5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/out_6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/out_7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/out_8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/out_9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entitites/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entitites/Gift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entitites/Santa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Read/ReaderVisitable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Read/ReaderVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Read/VisitorToRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Sorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Strategy/BabyStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Strategy/KidStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Strategy/Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Strategy/TeenStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Write/VisitorToWrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Write/WriterVisitable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Write/WriterVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proiect1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../proiect1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proiect1/checkstyle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../proiect1/checkstyle.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proiect1/src/common/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proiect1/src/common/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proiect1/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proiect1/src/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="23msRqcbyNIpTNlOB44O0JeMZ6e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="proiect2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6592cf7-8b38-437d-9566-c17c77fc77e1" name="Changes" comment="" />
+      <created>1642350592233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642350592233</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
